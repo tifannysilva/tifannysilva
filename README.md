@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="left">Olá, seja bem-vindo!</h1>
 
